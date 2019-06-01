@@ -5,5 +5,6 @@ this is addon
 editing for branching
 
 update before rebase
+solving merge
 
-conlfict creattion
+
